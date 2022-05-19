@@ -13,15 +13,25 @@ _The National Language Translation Mission (NLTM) has been announced in the budg
 
 _The goal of Bhashini is to develop an ecosystem of innovative practices for data collection, curation, develop technology for speech to speech translation and deliver solutions powered by open data, apps and services. Bhashini shall act as an orchestrator to bring contributions (like data, models etc.) received from government, industry, academia and society into an open “Hundi” or “Repository”. All contributions to Bhashini shall be validated and standardized using a Unified Language Contribution API (ULCA)._
 <br>
-Ref : https://www.meity.gov.in/writereaddata/files/Bhashini%20Whitepaper%20ver%206.0.pdf 
+
+![NLTM Architecture](https://github.com/AI4Bharat/Shoonya/blob/master/docs/shoonya/images/nltm-architecture.png)
+  
+[Reference : Bhashini Whitepaper](https://www.meity.gov.in/writereaddata/files/Bhashini%20Whitepaper%20ver%206.0.pdf)
 
 Also read [Bhashini Data Report](https://indicnlp.ai4bharat.org/static/documents/DMU_Data_Report_May_2022.pdf) 
 
 Naturally, data collection/curation becomes the core of building state-of-the-art NLP ML models. This is where Shoonya comes into picture. Shoonya provides the platform for the Annotators/Translators to create such large datasets with highest quality.
+
+![Shoonya High Level View](https://github.com/AI4Bharat/Shoonya/blob/master/docs/shoonya/images/shoonya-layer.png)
 
 
 ## Goals
 * Support all possible data types and labeling tasks
 * Build a reliable & scalable platform beneath Shoonya
 * Keep the UI simple and intuitive
+
+## Overview and Demo Video
+[![Shoonya Overview & Demo](https://img.youtube.com/vi/xQM0IxR6duw/0.jpg)](https://www.youtube.com/watch?v=xQM0IxR6duw)
+
+
 
