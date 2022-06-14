@@ -1,9 +1,22 @@
-# Shoonya #
+<p align="center">
+  <a href="https://shoonya.ai4bharat.org"><img src="https://github.com/AI4Bharat/Shoonya/blob/master/docs/shoonya/logos/shoonya-logo.png" alt="Shoonya"></a>
+</p>
+
+<p align="center">
+    <em>An open source platform to annotate and label data at scale</em>
+</p>
+
+<p align="center">
+    <a href="https://opensource.org/licenses/MIT" target="_blank">
+        <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
+    </a>
+</p>
+
+
+
 [Shoonya](http://shoonya.ai4bharat.org/) is an open source platform to annotate and label data at scale, built with a vision to enhance digital presence of under-represented languages in India. 
 
 Shoonya offers support for multiple data types (Ex : parallel datasets, OCR, ASR, TTS etc) and labeling tasks (Ex : parallel datasets, OCR, ASR, TTS etc).
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 _Shoonya, referring to zero, represents the start. It is also represents universality in the sense that several cultures have a similar symbol for zero. We believe that the language resources that we collect in Shoonya will start a valuable open-source movement for Indian language technologies that will be available universally for all to adopt and improve upon._
 
