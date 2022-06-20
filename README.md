@@ -1,5 +1,6 @@
+***
 <p align="center">
-  <a href="https://shoonya.ai4bharat.org"><img src="https://github.com/AI4Bharat/Shoonya/blob/master/docs/shoonya/logos/shoonya-logo.png" alt="Shoonya"></a>
+  <a href="https://shoonya.ai4bharat.org"><img src="https://github.com/AI4Bharat/Shoonya/blob/master/docs/shoonya/logos/shoonya-logo.png" alt="Shoonya" width="550" height="90"></a>
 </p>
 
 <p align="center">
@@ -12,9 +13,9 @@
     </a>
 </p>
 
+***
 
-
-[Shoonya](http://shoonya.ai4bharat.org/) is an open source platform to annotate and label data at scale, built with a vision to enhance digital presence of under-represented languages in India. 
+*[Shoonya](http://shoonya.ai4bharat.org/)* is an open source platform to annotate and label data at scale, built with a vision to enhance digital presence of under-represented languages in India. 
 
 Shoonya offers support for multiple data types (Ex : parallel datasets, OCR, ASR, TTS etc) and labeling tasks (Ex : parallel datasets, OCR, ASR, TTS etc).
 
@@ -27,7 +28,10 @@ _The National Language Translation Mission (NLTM) has been announced in the budg
 _The goal of Bhashini is to develop an ecosystem of innovative practices for data collection, curation, develop technology for speech to speech translation and deliver solutions powered by open data, apps and services. Bhashini shall act as an orchestrator to bring contributions (like data, models etc.) received from government, industry, academia and society into an open “Hundi” or “Repository”. All contributions to Bhashini shall be validated and standardized using a Unified Language Contribution API (ULCA)._
 <br>
 
-![NLTM Architecture](https://github.com/AI4Bharat/Shoonya/blob/master/docs/shoonya/images/nltm-architecture.png)
+
+<p align="center">
+  <img src="https://github.com/AI4Bharat/Shoonya/blob/master/docs/shoonya/images/nltm-architecture.png"  width="800" height="450">
+</p>
   
 [Reference : Bhashini Whitepaper](https://www.meity.gov.in/writereaddata/files/Bhashini%20Whitepaper%20ver%206.0.pdf)
 
@@ -35,7 +39,9 @@ Also read [Bhashini Data Report](https://indicnlp.ai4bharat.org/static/documents
 
 Naturally, data collection/curation becomes the core of building state-of-the-art NLP ML models. This is where Shoonya comes into picture. Shoonya provides the platform for the Annotators/Translators to create such large datasets with highest quality.
 
-![Shoonya High Level View](https://github.com/AI4Bharat/Shoonya/blob/master/docs/shoonya/images/shoonya-layer.png)
+<p align="center">
+  <img src="https://github.com/AI4Bharat/Shoonya/blob/master/docs/shoonya/images/shoonya-layer.png"  width="600" height="400">
+</p>
 
 
 ## Goals
