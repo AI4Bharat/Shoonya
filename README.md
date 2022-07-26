@@ -1,6 +1,6 @@
 ***
 <p align="center">
-  <a href="https://shoonya.ai4bharat.org"><img src="https://github.com/AI4Bharat/Shoonya/blob/master/docs/shoonya/logos/shoonya-logo.png" alt="Shoonya" width="550" height="90"></a>
+  <a href="https://shoonya.ai4bharat.org"><img src="https://github.com/AI4Bharat/Shoonya/blob/master/docs/shoonya/logos/shoonya-logo.png" alt="Shoonya" width="550" height="110"></a>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ _Shoonya, referring to zero, represents the start. It is also represents univers
 
 ## Challenges faced by Annotators
 <p align="center">
-  <img src="https://github.com/AI4Bharat/Shoonya/blob/master/docs/shoonya/images/annotator-challenges.png"  width="800" height="400">
+  <img src="https://github.com/AI4Bharat/Shoonya/blob/master/docs/shoonya/images/annotator-challenges.png"  width="800" height="420">
 </p>
 
 ## Why Shoonya?
