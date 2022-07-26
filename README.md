@@ -67,7 +67,7 @@ Naturally, data collection/curation becomes the core of building state-of-the-ar
 </p>
 
 ## Overview and Demo Video
-[![Shoonya Overview & Demo](https://img.youtube.com/vi/xQM0IxR6duw/0.jpg)](https://www.youtube.com/watch?v=xQM0IxR6duw)
+[![Shoonya Overview & Demo](https://img.youtube.com/vi/N4PBSB2fQto/0.jpg)](https://www.youtube.com/watch?v=N4PBSB2fQto)
 
 
 
