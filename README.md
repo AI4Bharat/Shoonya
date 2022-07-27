@@ -72,5 +72,5 @@ Naturally, data collection/curation becomes the core of building state-of-the-ar
 ## Cloning this master repo
 
 ```
-git clone --recurse-submodules git://github.com/AI4Bharat/Shoonya.git
+git clone --recurse-submodules https://github.com/AI4Bharat/Shoonya
 ```
