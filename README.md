@@ -74,3 +74,7 @@ Naturally, data collection/curation becomes the core of building state-of-the-ar
 ```
 git clone --recurse-submodules https://github.com/AI4Bharat/Shoonya
 ```
+
+## Communication Forum
+Any information/help/discussion required, can be taken up using the following link :
+https://github.com/AI4Bharat/Shoonya/discussions
