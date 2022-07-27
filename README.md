@@ -69,5 +69,8 @@ Naturally, data collection/curation becomes the core of building state-of-the-ar
 ## Overview and Demo Video
 [![Shoonya Overview & Demo](https://img.youtube.com/vi/N4PBSB2fQto/0.jpg)](https://www.youtube.com/watch?v=N4PBSB2fQto)
 
+## Cloning this master repo
 
-
+```
+git clone --recurse-submodules git://github.com/AI4Bharat/Shoonya.git
+```
