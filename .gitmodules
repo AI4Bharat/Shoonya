@@ -1,6 +1,8 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/AI4Bharat/Shoonya-Backend
+	branch = master
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/AI4Bharat/Shoonya-Frontend
+	branch = master
