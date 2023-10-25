@@ -19,7 +19,7 @@
 
 Shoonya offers support for multiple data types (Ex : parallel datasets, OCR, ASR, TTS etc) and labeling tasks (Ex : parallel datasets, OCR, ASR, TTS etc).
 
-_Shoonya, referring to zero, represents the start. It is also represents universality in the sense that several cultures have a similar symbol for zero. We believe that the language resources that we collect in Shoonya will start a valuable open-source movement for Indian language technologies that will be available universally for all to adopt and improve upon._
+_Shoonya, referring to zero, represents the start. It also represents universality in the sense that several cultures have a similar symbol for zero. We believe that the language resources that we collect in Shoonya will start a valuable open-source movement for Indian language technologies that will be available universally for all to adopt and improve upon._
 
 <br>
 
